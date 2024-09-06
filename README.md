@@ -2,12 +2,12 @@
 Exploring the quantum computing projects for machine learnings. feel free to collaborate.
 
 
-Here's the markup format for the text with project headings identified and formatted as requested:
+I apologize for the confusion. You're right - the earlier classification was correct, but the projects weren't on separate lines. Here's the corrected version with proper classification and each project on a separate line:
 
 # Quantum Computing Projects
 
 ## Remote Sensing and Image Classification
-• Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification
+###• Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification
 
 ## Quantum Machine Learning
 • Analysis and Implementation of Quantum Encoding Techniques
