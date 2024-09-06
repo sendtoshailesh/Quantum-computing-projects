@@ -7,15 +7,22 @@ I apologize for the confusion. You're right - the earlier classification was cor
 # Quantum Computing Projects
 
 ## Remote Sensing and Image Classification
-###• Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification
+
+• Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification
 
 ## Quantum Machine Learning
 • Analysis and Implementation of Quantum Encoding Techniques
+
 • Quantum Convolutional Neural Network for Classical Data Classification
+
 • Prediction of Solar Irradiation using Quantum Support Vector Machine Learning Algorithm
+
 • Comparative Study of Data Preparation Methods in Quantum Clustering Algorithms
+
 • Variational Quantum Classifier
+
 • Quantum Convolutional Neural Network-based Medical Image Classification
+
 • Feature Selection in Machine Learning Using Quantum Computing
 
 ## Optimization Problems
