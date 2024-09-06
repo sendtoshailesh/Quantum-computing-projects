@@ -27,8 +27,11 @@ I apologize for the confusion. You're right - the earlier classification was cor
 
 ## Optimization Problems
 • To Solve any Combinatorial Optimisation Problem (Like Knapsack) Using a Quantum Annealing Approach
+
 • Analysis of Solving Combinatorial Optimisation Problems on Quantum and Quantum-like Annealers
+
 • Solving Travelling Salesman Problem Using QAOA
+
 • Optimisation Problem Where We Try to Find the Best Solution to Coal Overburden Problem with Depth and Coal Quantity Mined
 
 ## Quantum Chemistry
@@ -36,14 +39,20 @@ I apologize for the confusion. You're right - the earlier classification was cor
 
 ## Quantum Algorithms
 • Implementing Grover's Algorithm and Proving Optimality of Grover's Search (Bounded Error and Zero Error)
+
 • To Implement Grover's Search Algorithm Where 1101 Is the Marked State
+
 • To Understand and Implement Quantum Counting
+
 • To Implement Shor's Algorithm to Factor 49
+
 • To Understand and Implement Grover Search-Based Algorithm for the List Coloring Problem
+
 • Implementing HHL Algorithm and Proving BQP-completeness of Matrix Inversion
 
 ## Quantum Computing in Finance
 • Quantum Computing for Finance
+
 • Implementing MC Simulations using Quantum Algorithm (Financial domain)
 
 ## Quantum Computing in Life Sciences
